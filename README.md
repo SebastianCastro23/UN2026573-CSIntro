@@ -1,5 +1,5 @@
 # Introduction to Computer Science
 
-Exercises
+## Exercises
 
 1. [Getting Started](01-intro.ipynb)
