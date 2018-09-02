@@ -4,6 +4,8 @@
 
 ## Contenido
 
+- [Programa del Curso](syllabus.pdf)
+
 1. [Recursos](#1-recursos)
     1. [Cursos introductorios para CS](#11-cursos-introductorios-para-cs)
     2. [Ejercicios de programación](#12-ejercicios-de-programación)
