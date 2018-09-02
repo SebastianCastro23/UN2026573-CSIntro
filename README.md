@@ -3,11 +3,11 @@
 ## Content
 
 1. [Resources](#1-resources)
-    1. [Introduction Courses for CS](#1-1-introduction-courses-for-cs)
-    2. [Programming exersices](#1-2-programming-exersices)
-    3. [News](#1-3-news)
-    4. [Videos](#1-4-videos)
-    5. [Events](#1-5-events)
+    1. [Introduction Courses for CS](#11-introduction-courses-for-cs)
+    2. [Programming exersices](#12-programming-exersices)
+    3. [News](#13-news)
+    4. [Videos](#14-videos)
+    5. [Events](#15-events)
 2. [Exercises](#2-exercises)
 
 ## 1. Resources
