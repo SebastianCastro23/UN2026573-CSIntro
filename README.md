@@ -54,3 +54,4 @@
 
 1. [Introducción a Algoritmos](Exercises/00_IntroAlgorithms.ipynb)
 2. [Introducción a Algoritmos (II)](Exercises/01_IntroAlgorithms.ipynb)
+3. [Expresiones y Datos](Exercises/02_ExpressionsData.ipynb)
