@@ -1,6 +1,6 @@
 <p align="center"><img src="banner-cs.svg" width="100%"></p>
 
-# 2026573 - Introducción a Ciencias de la Computación
+# 2026573 - Introduccion a las Ciencias de la Computacion y a la Programación
 
 ## Contenido
 
