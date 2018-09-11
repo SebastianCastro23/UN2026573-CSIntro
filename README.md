@@ -4,8 +4,6 @@
 
 ## Contenido
 
-- [Programa del Curso](syllabus.pdf)
-
 1. [Estructura del Curso](#1-estructura-del-curso)
 2. [Recursos](#2-recursos)
     1. [Cursos introductorios para CS](#21-cursos-introductorios-para-cs)
@@ -16,6 +14,8 @@
 3. [Talleres](#3-talleres)
 
 ## 1. Estructura del Curso
+
+[Programa del Curso (pdf)](syllabus.pdf)
 
 - Programación
     - Estructuras de control
