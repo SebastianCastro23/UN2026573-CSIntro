@@ -18,12 +18,14 @@
 [Programa del Curso (pdf)](syllabus.pdf)
 
 - Programación
-    1. Estructuras de control
-    2. Listas
-    3. Funciones
-    4. Recursividad
-    5. Archivos
-    6. Introducción a la programación orientada a objetos
+    1. [Introducción al pensamiento algorítmico](Presentations/00_IntroAlgorithms.pdf)
+    2. [Datos y expresiones](Presentations/02_ExpressionsData.pdf)
+    3. [Estructuras de control](Presentations/03_ControlStructures.pdf)
+    4. Listas
+    5. Funciones
+    6. Recursividad
+    7. Archivos
+    8. Introducción a la programación orientada a objetos
 - Introducción a ciencias de la computación
     1. Fundamentos de ciencias de la computación
         1. Algoritmos
