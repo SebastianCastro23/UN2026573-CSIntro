@@ -18,19 +18,19 @@
 [Programa del Curso (pdf)](syllabus.pdf)
 
 - Programación
-    - Estructuras de control
-    - Listas
-    - Funciones
-    - Recursividad
-    - Archivos
-    - Introducción a la programación orientada a objetos
+    1. Estructuras de control
+    2. Listas
+    3. Funciones
+    4. Recursividad
+    5. Archivos
+    6. Introducción a la programación orientada a objetos
 - Introducción a ciencias de la computación
-    - Fundamentos de ciencias de la computación
-    - Algoritmos
-    - Ciencia computacional teórica
-    - Teoría de la información
-    - Lógica computacional y sistemas digitales
-- Algunas aplicaciones de ciencias de la computación
+    1. Fundamentos de ciencias de la computación
+        1. Algoritmos
+        2. Ciencia computacional teórica
+        3. Teoría de la información
+        4. Lógica computacional y sistemas digitales
+    2. Algunas aplicaciones de ciencias de la computación
 
 ## 2. Recursos
 
