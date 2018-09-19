@@ -64,7 +64,7 @@
 - [ ] Talk: *Emergent behavior in self-organized dynamics: from consensus to hydrodynamic flocking*. [Eitan Tadmor](http://www.cscamm.umd.edu/tadmor/). August 16, Auditorio Farmacia - UNAL.
 - [ ] Talk: *Informative meeting for programming contests at UN*. [Ivan Yesid Castellanos Martinez](http://agenciadenoticias.unal.edu.co/detalle/article/la-un-vuelve-a-ser-finalista-en-mundial-de-programacion.html). August 17 Friday, 2pm at paraninfo B 401 - UNAL.
 - [X] Talk: *The quest for identifiability in human functional connectomes*. [Enrico Amico](https://engineering.purdue.edu/ConnplexityLab/research/research-group). Tuesday 4 sep at 11am - 201 - 405 - UNAL.
-- [ ] Event: *Conversatorio: Inteligencia Artificial y Polìticas Públicas* con Berthier Ribeiro-Neto (Director Centro de Investigación y Desarrollo Google Brasil. September 18)
+- [X] Event: *Conversatorio: Inteligencia Artificial y Polìticas Públicas* con Berthier Ribeiro-Neto (Director Centro de Investigación y Desarrollo Google Brasil. September 18)
 - [ ] Event: [Congreso Colombiano de Computación](http://www.utb.edu.co/13ccc). Septembre 26-September 28.
 - [ ] Challenge: [Mathmodelling Challenge in U. Rosario](https://cosiam.org/es/math-modeling-challenge-cosiam-2018/). September 30.
 - [ ] Event: [*Colombia 4.0* BOOK your week and your free tickets!!](http://col40.co/638/w3-channel.html). Octuber 23-Octuber 26.
