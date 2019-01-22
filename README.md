@@ -18,14 +18,14 @@
 [Programa del Curso (pdf)](syllabus.pdf)
 
 - Programación
-    1. [Introducción al pensamiento algorítmico](Presentations/00_IntroAlgorithms.pdf)
-    2. [Datos y expresiones](Presentations/02_ExpressionsData.pdf)
-    3. [Estructuras de control](Presentations/03_ControlStructures.pdf)
-    4. Listas
-    5. Funciones
+    1. [Introducción al pensamiento algorítmico](Presentations/1-AlgorithmicThinking.pdf)
+    2. [Datos y expresiones](Presentations/2-Expressions.pdf)
+    3. [Estructuras de control](Presentations/3-ControlStructures.pdf)
+    4. [Listas](Presentations/4-Lists.pdf)
+    5. [Funciones](Presentations/5-Functions.pdf)
     6. Recursividad
     7. Archivos
-    8. Introducción a la programación orientada a objetos
+    8. [Introducción a la programación orientada a objetos](7-OOP.pdf)
 - Introducción a ciencias de la computación
     1. Fundamentos de ciencias de la computación
         1. Algoritmos
@@ -61,13 +61,13 @@
 
 ### 2.5. Eventos
 
-- [ ] Talk: *Emergent behavior in self-organized dynamics: from consensus to hydrodynamic flocking*. [Eitan Tadmor](http://www.cscamm.umd.edu/tadmor/). August 16, Auditorio Farmacia - UNAL.
-- [ ] Talk: *Informative meeting for programming contests at UN*. [Ivan Yesid Castellanos Martinez](http://agenciadenoticias.unal.edu.co/detalle/article/la-un-vuelve-a-ser-finalista-en-mundial-de-programacion.html). August 17 Friday, 2pm at paraninfo B 401 - UNAL.
+- [X] Talk: *Emergent behavior in self-organized dynamics: from consensus to hydrodynamic flocking*. [Eitan Tadmor](http://www.cscamm.umd.edu/tadmor/). August 16, Auditorio Farmacia - UNAL.
+- [X] Talk: *Informative meeting for programming contests at UN*. [Ivan Yesid Castellanos Martinez](http://agenciadenoticias.unal.edu.co/detalle/article/la-un-vuelve-a-ser-finalista-en-mundial-de-programacion.html). August 17 Friday, 2pm at paraninfo B 401 - UNAL.
 - [X] Talk: *The quest for identifiability in human functional connectomes*. [Enrico Amico](https://engineering.purdue.edu/ConnplexityLab/research/research-group). Tuesday 4 sep at 11am - 201 - 405 - UNAL.
-- [ ] Event: *Conversatorio: Inteligencia Artificial y Polìticas Públicas* con Berthier Ribeiro-Neto (Director Centro de Investigación y Desarrollo Google Brasil. September 18)
-- [ ] Event: [Congreso Colombiano de Computación](http://www.utb.edu.co/13ccc). Septembre 26-September 28.
-- [ ] Challenge: [Mathmodelling Challenge in U. Rosario](https://cosiam.org/es/math-modeling-challenge-cosiam-2018/). September 30.
-- [ ] Event: [*Colombia 4.0* BOOK your week and your free tickets!!](http://col40.co/638/w3-channel.html). Octuber 23-Octuber 26.
+- [X] Event: *Conversatorio: Inteligencia Artificial y Polìticas Públicas* con Berthier Ribeiro-Neto (Director Centro de Investigación y Desarrollo Google Brasil. September 18)
+- [X] Event: [Congreso Colombiano de Computación](http://www.utb.edu.co/13ccc). Septembre 26-September 28.
+- [X] Challenge: [Mathmodelling Challenge in U. Rosario](https://cosiam.org/es/math-modeling-challenge-cosiam-2018/). September 30.
+- [X] Event: [*Colombia 4.0* BOOK your week and your free tickets!!](http://col40.co/638/w3-channel.html). Octuber 23-Octuber 26.
 
 
 ## 3. Talleres
@@ -75,3 +75,7 @@
 1. [Introducción a Algoritmos](Exercises/00_IntroAlgorithms.ipynb)
 2. [Introducción a Algoritmos (II)](Exercises/01_IntroAlgorithms.ipynb)
 3. [Expresiones y Datos](Exercises/02_ExpressionsData.ipynb)
+4. [Expresiones Booleanas](Exercises/03_BooleanExpressions.ipynb)
+5. [Expresiones Booleanas](Exercises/04_IterativeExpressions.ipynb)
+6. [Listas](Exercises/05_List.ipynb)
+7. [Funciones](Exercises/06_Functions.ipynb)
