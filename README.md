@@ -76,6 +76,6 @@
 2. [Introducción a Algoritmos (II)](Exercises/01_IntroAlgorithms.ipynb)
 3. [Expresiones y Datos](Exercises/02_ExpressionsData.ipynb)
 4. [Expresiones Booleanas](Exercises/03_BooleanExpressions.ipynb)
-5. [Expresiones Booleanas](Exercises/04_IterativeExpressions.ipynb)
+5. [Expresiones Iterativas](Exercises/04_IterativeExpressions.ipynb)
 6. [Listas](Exercises/05_List.ipynb)
 7. [Funciones](Exercises/06_Functions.ipynb)
