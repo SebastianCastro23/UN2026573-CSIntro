@@ -12,6 +12,7 @@
     4. [Vídeos](#24-vídeos)
     5. [Eventos](#25-eventos)
 3. [Talleres](#3-talleres)
+4. [Proyecto](#4-proyecto)
 
 ## 1. Estructura del Curso
 
@@ -79,3 +80,7 @@
 5. [Expresiones Iterativas](Exercises/04_IterativeExpressions.ipynb)
 6. [Listas](Exercises/05_List.ipynb)
 7. [Funciones](Exercises/06_Functions.ipynb)
+
+## 4. Proyecto
+
+1. [Edición de Archivos](Project/readWav.ipynb)
