@@ -83,4 +83,5 @@
 
 ## 4. Proyecto
 
-1. [Edición de Archivos](Project/readWav.ipynb)
+1. [Simulador de Partículas](Project/1-ParticleSimulator/Proyecto_1.ipynb)
+2. [Edición de Archivos de Audio](Project/2-ReadWav/readWav.ipynb)
